@@ -1,4 +1,4 @@
-# Recycle-Pi - a project for UNIHACK Melbourne Hackathon 2019
+# Recycle-Pi - a project for UNIHACK Melbourne 2019 Hackathon
 
 Welcome to Recycle-Pi, an IoT and Cloud based platform for environmental sustainability.
 
