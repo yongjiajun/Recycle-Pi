@@ -26,3 +26,12 @@ Motion sensing IoT --> Raspberry-Pi, Python, PiCam module rev1.3
 Custom Cloud Endpoint - AI image Recognition - Text to Speech AI - IoT platform --> AutoML, AWS SDK,
 
 Front-End --> React.JS Request rerouted to Django REST API (Python)
+
+### Contributors: 
+
+- [Jia Jun Yong](https://github.com/yongjiajun)
+- [Austin Pham](https://github.com/rockmanvnx6)
+- [Duy Nguyen](https://github.com/nugyn)
+- [Michael Dao](https://github.com/MichaelDao)
+- [Sam Nolan](https://github.com/HazelFire)
+- [Isaac Keleher](https://github.com/inci90)
